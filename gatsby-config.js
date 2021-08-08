@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Ocacatalk`,
+    defaultTitle: `Ocacatalk`,
+    siteTitleShort: `Ocacatalk`,
+    siteDescription: `Ocacatalk: Drop-in live chat`,
+    siteUrl: `https://ocacatalk.ml`,
+    siteAuthor: `@votepurchase`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://kenmohouse.web.app`,
+        siteUrl: `https://ocacatalk.ml`,
       },
     },
     `gatsby-plugin-offline`,
