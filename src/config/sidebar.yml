@@ -2,19 +2,15 @@
 
 - label: 'Introduction'
   link: '/'
-- label: 'Getting started'
-  link: '/getting-started'
-- label: Usage
+- label: How to use
   items:
-    - label: 'Creating docs'
-      link: '/usage/creating-docs'
-    - label: 'Navigation'
-      link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
+    - label: 'プロフィールを作ろう'
+      link: '/howtouse/profile'
+    - label: 'ビデオチャットに参加しよう'
+      link: '/howtouse/broadcast'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
-    - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+    - label: 利用規約とプライバシー
+      link: /privacy
+    - label: 'Twitter'
+      link: https://twitter.com/votepurchase

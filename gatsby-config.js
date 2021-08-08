@@ -34,17 +34,17 @@ module.exports = {
       },
     },
     `gatsby-plugin-sitemap`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `YOUR_ANALYTICS_ID`,
-    //   },
-    // },
+     {
+       resolve: `gatsby-plugin-google-analytics`,
+       options: {
+         trackingId: `UA-181015020-7`,
+       },
+     },
     `gatsby-plugin-remove-trailing-slashes`,
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.app`,
+        siteUrl: `https://kenmohouse.web.app`,
       },
     },
     `gatsby-plugin-offline`,
