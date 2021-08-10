@@ -6,10 +6,10 @@
   items:
     - label: 'プロフィールを作ろう'
       link: '/howtouse/profile'
-    - label: 'つながりを作ろう'
-      link: '/howtouse/connection'
     - label: 'ビデオチャットに参加しよう'
       link: '/howtouse/broadcast'
+    - label: 'つながりを作ろう'
+      link: '/howtouse/connection'
 - label: More
   items:
     - label: 利用規約とプライバシー
