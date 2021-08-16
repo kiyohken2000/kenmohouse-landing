@@ -16,5 +16,7 @@
       link: /privacy
     - label: 'Twitter'
       link: https://twitter.com/votepurchase
+    - label: 'App Store'
+      link: https://apps.apple.com/jp/app/ocacatalk/id1580335865
     - label: 'Google Play'
       link: https://play.google.com/store/apps/details?id=net.votepurchase.ocacatalk
